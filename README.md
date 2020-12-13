@@ -1,1 +1,1 @@
-# Diarium-lite-telkomathon2020
+# diarium-lite-telkomathon2020
